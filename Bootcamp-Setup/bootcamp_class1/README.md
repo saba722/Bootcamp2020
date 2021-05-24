@@ -29,13 +29,11 @@ npm start
 
 6.  Install Surge
 ```
-
 npm install --global surge
 ```
 
 7.  Generate Surge token by the following command
 ```
-
 surge token
 ```
 
